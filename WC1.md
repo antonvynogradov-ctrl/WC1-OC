@@ -1,4 +1,4 @@
-# Work-case 1. Using Git in Team Work
+# Work-case 1 
 
 ## Purpose of the Work
 This assignment aims to explore the Git version control system, understand its core features and commands, and set up a public repository for storing coursework related to the “Operating Systems” discipline.
