@@ -44,5 +44,11 @@ https://github.com/antonvynogradov-ctrl/WC1-OC/edit/main/WC1.md
 - **Push** — transferring local commits to a remote repository.
 - **Pull** — retrieving updates from a remote repository.
 
-## Authors
+## Conclusion
+
+During the completion of Work-case 1, the main principles of the Git version control system were studied. The work helped to understand how Git is used to track file changes, manage versions, and support teamwork on projects.
+
+Practical skills in creating a GitHub account, setting up a public repository, and publishing reports in Markdown format were gained. It was also learned how commits record the history of changes and help restore previous file versions.
+
+As a result, basic knowledge and practical experience with Git were obtained, which are important for collaborative development and effective project management in the field of information technology.
 
