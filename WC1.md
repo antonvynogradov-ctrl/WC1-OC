@@ -32,7 +32,7 @@ A GitHub account was created and a public repository was set up to keep all comp
 The initial team report for Work-case 1 was uploaded to the public GitHub repository in Markdown format. The presence of commits from all team members demonstrates joint participation in the work.
 
 Repository link:
-https://github.com/krashuxadarina-glitch/my-first-project/blob/main/workcase1.md
+https://github.com/antonvynogradov-ctrl/WC1-OC/edit/main/WC1.md
 
 ## Glossary of Terms
 - **Git** — a distributed system for tracking file changes.
